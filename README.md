@@ -80,6 +80,7 @@ By the end of this workshop, students will be able to:
 
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
 
 
 ## 📄 License
