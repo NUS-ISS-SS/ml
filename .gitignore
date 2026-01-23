@@ -9,3 +9,11 @@ wheels/
 # Virtual environments
 .venv
 ml-env
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Answer keys (keep out of version control)
+*-answer.*
+*_answer.*
+*answer.*
