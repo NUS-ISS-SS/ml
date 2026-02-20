@@ -15,7 +15,7 @@ This repository contains materials for a hands-on machine learning workshop focu
 - **`Test-housing.ipynb`** - Student coding exercise using Melbourne housing data
   - TODO-driven structure with placeholders for students to fill in
   - Practice preprocessing, model training, and evaluation
-  - No solution code include
+  - No solution code included
 
 ### Optional Challenge
 - **`Test-ames-optional.ipynb`** - Advanced optional challenge using Ames Housing dataset
