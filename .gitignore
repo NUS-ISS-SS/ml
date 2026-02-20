@@ -18,3 +18,5 @@ ml-env
 *-answer.*
 *_answer.*
 *answer.*
+
+uv.lock
